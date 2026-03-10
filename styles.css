@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color:linen;
+  background-color:burlywood;
   display: flex;
   flex-direction: column;
   justify-content: center;
